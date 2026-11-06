@@ -193,7 +193,7 @@
 
 :: Island Build Throne
 <<effects>>
-<<earnFeat "야생의 군주">>당신은 몇 개의 날카로운 돌을 들고 앉아, 나무에 우아한 곡선을 조각하는 작업에 착수한다. 완성되면, 그것들을 의자에 부착하여 군주에게 어울리는 왕좌를 만든다. 어쨌든, 외딴 섬의 나뭇가지와 돌로 만든 왕좌들 중에서는 말이다.
+<<earnFeat "Wild Monarch">>당신은 몇 개의 날카로운 돌을 들고 앉아, 나무에 우아한 곡선을 조각하는 작업에 착수한다. 완성되면, 그것들을 의자에 부착하여 군주에게 어울리는 왕좌를 만든다. 어쨌든, 외딴 섬의 나뭇가지와 돌로 만든 왕좌들 중에서는 말이다.
 <br><br>
 
 <<link [[다음|Island Build]]>><</link>>
@@ -250,7 +250,7 @@
 		<<facewear "islander mask">>
 	<</if>>
 	<br><br>
-	<<earnFeat "수호자의 얼굴">>
+	<<earnFeat "Face of a Guardian">>
 	<<specialClothesUnlock "item" "islander mask">>
 <<elseif $islander_mask gte 40>>
 	날카로운 돌로 나무를 조각하여 각진 틀 모양을 만드는 데 성공한다. 눈을 추가하려 할 때 가운데가 쩍 갈라진다.<<note "가면 조각 숙련도" "green">>
