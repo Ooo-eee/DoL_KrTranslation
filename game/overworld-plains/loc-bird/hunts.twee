@@ -2317,7 +2317,7 @@
 	<br><br>
 
 	<<flight_hunt_get "lurkers" 4>>
-	<<earnFeat "깃털 묘기">>
+	<<earnFeat "Feather Trick">>
 <<else>>
 	<span class="red">하지만 당신은 너무 느리다.</span> 다른 럴커들이 당신을 가로막기 위해 뛰어오른다. 당신은 경로에서 벗어나 옆으로 넘어진다. <<pain 3>><<gpain>>
 	<br><br>
